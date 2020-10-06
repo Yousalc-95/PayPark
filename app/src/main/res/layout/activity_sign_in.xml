@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".views.SignInActivity">
 
+
     <EditText
         android:id="@+id/edtEmail"
         android:layout_width="0dp"
